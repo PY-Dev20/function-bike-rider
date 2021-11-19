@@ -8,4 +8,5 @@ source ~/.function-bike-rider/bin/activate
 
 
 # SSH Keys
+cat /home/ec2-user/.ssh/id_rsa.pub
 
