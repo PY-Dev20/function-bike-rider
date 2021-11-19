@@ -12,3 +12,7 @@ source ~/.function-bike-rider/bin/activate
 upload to github
 
 ## Create Scaffold (with Marco Polo Function)
+
+* Makefile
+* Hello.py
+* requirments.txt
