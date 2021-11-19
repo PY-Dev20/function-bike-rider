@@ -8,5 +8,7 @@ source ~/.function-bike-rider/bin/activate
 
 
 # SSH Keys
-cat /home/ec2-user/.ssh/id_rsa.pub
+'ssh-keygen -t rsa'
+upload to github
 
+## Create Scaffold (with Marco Polo Function)
